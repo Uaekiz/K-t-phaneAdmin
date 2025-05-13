@@ -1,0 +1,78 @@
+﻿<Window 
+        MinWidth="400" MinHeight="300"
+        x:Class="KütüphaneAdmin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Admin Giriş" Height="450" Width="800">
+
+    <Window.Background>
+        <ImageBrush ImageSource="Images/Background.webp" Stretch="Fill"/>
+    </Window.Background>
+
+    <!-- Frame tüm Window'u kaplayacak -->
+    <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden">
+        <!-- Başlangıç içeriği Frame'in içinde -->
+        <Frame.Content>
+            <Grid VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Text="ID:"  
+                           VerticalAlignment="Center" 
+                           FontSize="22"  
+                           Margin="5"
+                           Grid.Row="1"
+                           Grid.Column="0"/>
+
+                <TextBox Background="Azure"
+                         Name="IdTextBox"
+                         Height="25"
+                         Width="200"  
+                         HorizontalContentAlignment="Center"
+                         VerticalAlignment="Center" 
+                         VerticalContentAlignment="Center"
+                         Margin="5"
+                         Grid.Row="1"
+                         Grid.Column="1"/>
+
+                <TextBlock Text="Şifre:"  
+                           VerticalAlignment="Center" 
+                           FontSize="22"  
+                           Margin="5"
+                           Grid.Row="2"
+                           Grid.Column="0"/>
+
+                <PasswordBox AutomationProperties.IsRequiredForForm="True" Background="Azure"
+                             Name="PasswordTextBox"
+                             Height="25"
+                             Width="200" 
+                             HorizontalAlignment="Center" 
+                             HorizontalContentAlignment="Center"
+                             VerticalAlignment="Center" 
+                             VerticalContentAlignment="Center"
+                             Margin="5"
+                             Grid.Row="2"
+                             Grid.Column="1"/>
+
+                <!-- Button, Grid'in üçüncü satırında -->
+                <Button Content="Giriş Yap" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Center" 
+                        Margin="187,0,0,0"
+                        Height="30"
+                        Width="70"
+                        Click="GirisYap_Click"
+                        Grid.Row="3"
+                        Grid.ColumnSpan="2" />
+            </Grid>
+        </Frame.Content>
+    </Frame>
+</Window>

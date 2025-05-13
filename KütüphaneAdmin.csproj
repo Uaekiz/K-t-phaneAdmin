@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Background.webp" />
+    <None Remove="Images\Kitaplar.jpg" />
+    <None Remove="Images\kitap_göster.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Background.webp" />
+    <Resource Include="Images\kitap_göster.jpg" />
+  </ItemGroup>
+
+</Project>

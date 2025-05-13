@@ -1,0 +1,97 @@
+﻿<Page x:Class="KütüphaneAdmin.Kitap_Görüntüleme"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:KütüphaneAdmin"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Kitap_Görüntüleme">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="KitapTablosu"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  Margin="35,0,35,0"
+                  HorizontalAlignment="Stretch" 
+                  VerticalAlignment="Stretch"
+                  Grid.Row="1"
+                  Grid.Column="1"
+                  CanUserResizeColumns="False" 
+                  CanUserResizeRows="False"
+                  FontSize="20"
+                  MouseDoubleClick="KitapTablosu_MouseDoubleClick">
+            <DataGrid.RowStyle>
+                <Style TargetType="DataGridRow">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding GBulunma}" Value="false">
+                            <Setter Property="Background" Value="#FFC7CE"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding GBulunma}" Value="true">
+                            <Setter Property="Background" Value="#C6EFCE"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.RowStyle>
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Header="Kitap Adı"
+                                          Binding="{Binding GKitapAdi}"
+                                          Width="2*"/>
+                <DataGridTextColumn Header="Yazar Adı"
+                                          Binding="{Binding GYazarAdi}"
+                                          Width="2*"/>
+
+                <DataGridTextColumn Header="ISBN"
+                                          Binding="{Binding GISBN}"
+                                          Width="1.5*"/>
+
+                <DataGridCheckBoxColumn Header="Bulunma"
+                                          Binding="{Binding GBulunma, Mode=OneWay}"
+                                          Width="1*"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="❮"
+                Grid.Row="0"
+                Grid.Column="0"
+                Width="20"
+                Height="20" 
+                Margin="3"
+                Click="Geri_Dön"
+                HorizontalAlignment="Left" 
+                VerticalAlignment="Top"
+                Background="Transparent" 
+                BorderBrush="Transparent" />
+
+        <TextBox Name="Kitap_Arama"
+                 Grid.Row="0"
+                 Grid.Column="1"
+                 Height="40"
+                 VerticalContentAlignment="Center"
+                 FontSize="20"
+                 HorizontalAlignment="Left"
+                 Margin="35,20,0,0"
+                 Width="408"/>
+
+        <Button Content="🔍"
+                Height="40"
+                Width="40"
+                Grid.Column="1"
+                Grid.Row="0"
+                Click="KArama"
+                HorizontalAlignment="Left"
+                Background="Transparent" 
+                BorderBrush="Transparent"
+                Margin="443,20,0,0" />
+    </Grid>
+</Page>
