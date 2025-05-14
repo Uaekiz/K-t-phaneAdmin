@@ -1,0 +1,201 @@
+Sapiens İnsan Türünün Kısa Bir Tarihi;Yuval Noah Harari;174829351;true
+Kürk Mantolu Madonna;Sabahattin Ali;258391740;false
+1984;George Orwell;391847205;true
+Tutunamayanlar;Oğuz Atay;472109385;false
+Simyacı;Paulo Coelho;583920174;true
+Bir Bilim Adamının Romanı;Oğuz Atay;647102938;false
+Huzur;Ahmet Hamdi Tanpınar;751920483;true
+Kuyucaklı Yusuf;Sabahattin Ali;813506927;false
+Puslu Kıtalar Atlası;İhsan Oktay Anar;927483105;true
+Yüzyıllık Yalnızlık;Gabriel Garcia Marquez;148392750;false
+Kara Kitap;Orhan Pamuk;257194830;true
+Korkuyu Beklerken;Oğuz Atay;346192875;false
+Masumiyet Müzesi;Orhan Pamuk;472109386;true
+Satranç;Stefan Zweig;583920175;false
+Çalıkuşu;Reşat Nuri Güntekin;691827304;true
+Kendi Gök Kubbemiz;Yahya Kemal Beyatlı;751920484;false
+Tehlikeli Oyunlar;Oğuz Atay;813506928;true
+Kırmızı Pazartesi;Gabriel Garcia Marquez;927483106;false
+İçimizdeki Şeytan;Sabahattin Ali;148392751;true
+Harry Potter ve Felsefe Taşı;J.K. Rowling;257194831;false
+Koku;Patrick Süskind;346192876;true
+Dokuzuncu Hariciye Koğuşu;Peyami Safa;472109387;false
+Fahrenheit 451;Ray Bradbury;583920176;true
+Bilinmeyen Bir Kadının Mektubu;Stefan Zweig;691827305;false
+Kayıp Kız;Gillian Flynn;751920485;true
+Suç ve Ceza;Fyodor Dostoyevski;813506929;false
+Kendi Sesinden;Oğuz Atay;927483107;true
+Çocuk ve Allah;Fazıl Hüsnü Dağlarca;148392752;false
+Dune;Frank Herbert;257194832;true
+Karamazov Kardeşler;Fyodor Dostoyevski;346192877;false
+Yaban;Yakup Kadri Karaosmanoğlu;472109388;true
+Hayvan Çiftliği;George Orwell;583920177;false
+Notre Dame’ın Kamburu;Victor Hugo;691827306;true
+Korku;Stefan Zweig;751920486;false
+Bir Ömür Nasıl Yaşanır;İlber Ortaylı;813506930;true
+Sefiller;Victor Hugo;927483108;false
+Yeraltından Notlar;Fyodor Dostoyevski;148392753;true
+Küçük Prens;Antoine de Saint-Exupéry;257194833;false
+Sherlock Holmes’un Maceraları;Arthur Conan Doyle;346192878;true
+Hacı Murat;Lev Tolstoy;472109389;false
+Doğu Ekspresinde Cinayet;Agatha Christie;583920178;true
+Sevgili Arsız Ölüm;Latife Tekin;691827307;false
+Dracula;Bram Stoker;751920487;true
+Körlük;José Saramago;813506931;false
+Aşk ve Gurur;Jane Austen;927483109;true
+Benim Adım Kırmızı;Orhan Pamuk;148392754;false
+Yüksek Topuklar;Murathan Mungan;257194834;true
+Frankenstein;Mary Shelley;346192879;false
+Kış Güneşi;Murathan Mungan;472109390;true
+On Küçük Zenci;Agatha Christie;583920179;false
+Saatleri Ayar Eden;Ahmet Hamdi Tanpınar;691827308;true
+Şairin Romanı;Murathan Mungan;751920488;false
+Kayıp Dünya;Arthur Conan Doyle;813506932;true
+Aylak Adam;Yusuf Atılgan;927483110;false
+Amok Koşucusu;Stefan Zweig;148392755;true
+Gökyüzü;Reşat Nuri Güntekin;257194835;false
+Kafes;Josh Malerman;346192880;true
+Bir Garip Orhan Veli;Orhan Veli Kanık;472109391;false
+Yedi Mühür;Murathan Mungan;583920180;true
+Zaman Kaybolmaz;İlber Ortaylı;691827309;false
+Hac;Paulo Coelho;751920489;true
+Kırmızı Saçlı Kadın;Orhan Pamuk;813506933;false
+Sessiz Ev;Orhan Pamuk;927483111;true
+Mai ve Siyah;Halit Ziya Uşaklıgil;148392756;false
+Fatih Harbiye;Peyami Safa;257194836;true
+Çöldeki Penguen;Ahmet Büke;346192881;false
+Siyah İnciler;Mehmet Rauf;472109392;true
+Handan;Halide Edib Adıvar;583920181;false
+Acımak;Reşat Nuri Güntekin;691827310;true
+Yalnızız;Peyami Safa;751920490;false
+Vurun Kahpeye;Halide Edib Adıvar;813506934;true
+Sinekli Bakkal;Halide Edib Adıvar;927483112;false
+Dudaktan Kalbe;Reşat Nuri Güntekin;148392757;true
+Beş Şehir;Ahmet Hamdi Tanpınar;257194837;false
+Eski Şiirin Rüzgârıyle;Yahya Kemal Beyatlı;346192882;true
+Suskunlar;İhsan Oktay Anar;472109393;false
+Yedinci Gün;İhsan Oktay Anar;583920182;true
+Anna Karenina;Lev Tolstoy;691827311;false
+Savaş ve Barış;Lev Tolstoy;751920491;true
+Budala;Fyodor Dostoyevski;813506935;false
+Oblomov;İvan Gonçarov;927483113;true
+Kumarbaz;Fyodor Dostoyevski;148392758;false
+Beyaz Geceler;Fyodor Dostoyevski;257194838;true
+Ermiş;Halil Cibran;346192883;false
+Kör Baykuş;Sâdık Hidâyet;472109394;true
+Günlerin Köpüğü;Boris Vian;583920183;false
+Katalin Sokağı;Magda Szabó;691827312;true
+Yaşlı Adam ve Deniz;Ernest Hemingway;751920492;false
+Görmek;José Saramago;813506936;true
+Yolda;Jack Kerouac;927483114;false
+Kış Bahçesi;Kristin Hannah;148392759;true
+Trendeki Kız;Paula Hawkins;257194839;false
+Dorian Gray’in Portresi;Oscar Wilde;346192884;true
+Bilinçaltının Gücü;Joseph Murphy;472109395;false
+Farkındalık;Osho;583920184;true
+Korku Fabrikası;Emrah Sefa Gürkan;691827313;false
+Türklerin Tarihi;İlber Ortaylı;751920493;true
+Eylembilim;Oğuz Atay;813506937;false
+Değirmen;Sabahattin Ali;927483115;true
+Kumrunun Gördüğü;Ahmet Büke;148392760;false
+Kinyas ve Kayra;Hakan Günday;257194840;true
+Anayurt Oteli;Yusuf Atılgan;346192885;false
+Kolera Günlerinde Aşk;Gabriel Garcia Marquez;472109396;true
+72. Koğuş;Orhan Kemal;583920185;false
+Baba Evi;Orhan Kemal;691827314;true
+Kiralık Konak;Yakup Kadri Karaosmanoğlu;751920494;false
+Aşk-ı Memnu;Halit Ziya Uşaklıgil;813506938;true
+Sergüzeşt;Samipaşazade Sezai;927483116;false
+Bir Tereddüdün Romanı;Peyami Safa;148392761;true
+Masalını Yitiren Dev;Adnan Binyazar;257194841;false
+Saatler;Michael Cunningham;346192886;true
+Karanlık Dükkân;Georges Perec;472109397;false
+Otostopçunun Galaksi Rehberi;Douglas Adams;583920186;true
+Olağanüstü Bir Gece;Stefan Zweig;691827315;false
+Malorie;Josh Malerman;751920495;true
+Baskerville’lerin Köpeği;Arthur Conan Doyle;813506939;false
+Dr. Jekyll ve Mr. Hyde;Robert Louis Stevenson;927483117;true
+Son İnsan;Mary Shelley;148392762;false
+Yılanın Gölgesi;Bram Stoker;257194842;true
+Paris ve Londra’da Beş Parasız;George Orwell;346192887;false
+Mars Yıllıkları;Ray Bradbury;472109398;true
+Karanlık Orman;R.L. Stine;583920187;false
+Piedra Irmağı’nın Kıyısında Oturdum Ağladım;Paulo Coelho;691827316;true
+Dune Mesihi;Frank Herbert;751920496;false
+Değirmen;Reşat Nuri Güntekin;813506940;true
+Miskinler Tekkesi;Reşat Nuri Güntekin;927483118;false
+Harabelerin Çiçeği;Reşat Nuri Güntekin;148392763;true
+Mahur Beste;Ahmet Hamdi Tanpınar;257194843;false
+Aydaki Kadın;Ahmet Hamdi Tanpınar;346192888;true
+Edebiyat Üzerine Makaleler;Ahmet Hamdi Tanpınar;472109399;false
+Aziz İstanbul;Yahya Kemal Beyatlı;583920188;true
+Amat;İhsan Oktay Anar;691827317;false
+Efrâsiyâb’ın Hikâyeleri;İhsan Oktay Anar;751920497;true
+İvan İlyiç’in Ölümü;Lev Tolstoy;813506941;false
+Kreutzer Sonat;Lev Tolstoy;927483119;true
+Kırık Kanatlar;Halil Cibran;148392764;false
+Hacı Ağa;Sâdık Hidâyet;257194844;true
+Pekin’de Sonbahar;Boris Vian;346192889;false
+Kapı;Magda Szabó;472109400;true
+Çanlar Kimin İçin Çalıyor;Ernest Hemingway;583920189;false
+Ölüm Bir Varmış Bir Yokmuş;José Saramago;691827318;true
+Dharma Kaçakları;Jack Kerouac;751920498;false
+Bülbül;Kristin Hannah;813506942;true
+Karanlık Sular;Paula Hawkins;927483120;false
+Mutlu Prens;Oscar Wilde;148392765;true
+Mucize Gücünüz;Joseph Murphy;257194845;false
+Tarih: Düşünce ve Yöntem;Emrah Sefa Gürkan;346192890;true
+Osmanlı’yı Yeniden Keşfetmek;İlber Ortaylı;472109401;false
+Sırça Köşk;Sabahattin Ali;583920190;true
+Fırtına Takvimi;Ahmet Büke;691827319;false
+Az;Hakan Günday;751920499;true
+Canistan;Yusuf Atılgan;813506943;false
+Albaya Mektup Yok;Gabriel Garcia Marquez;927483121;true
+Cemile;Orhan Kemal;148392766;false
+Nur Baba;Yakup Kadri Karaosmanoğlu;257194846;true
+Kırık Hayatlar;Halit Ziya Uşaklıgil;346192891;false
+Sözde Kızlar;Peyami Safa;472109402;true
+Gökyüzüne Ağıt;Adnan Binyazar;583920191;false
+Bir Gün;David Nicholls;691827320;true
+Güvercin;Patrick Süskind;751920500;false
+Yaşam Kullanma Kılavuzu;Georges Perec;813506944;true
+Evrenin Sonundaki Restoran;Douglas Adams;927483122;false
+Mendel’in Mirası;Stefan Zweig;148392767;true
+Korku Gölü;Josh Malerman;257194847;false
+Kızıl Dosya;Arthur Conan Doyle;346192892;true
+Kaçırılan;Robert Louis Stevenson;472109403;false
+Mathilda;Mary Shelley;583920192;true
+Beyaz Solucan;Bram Stoker;691827321;false
+Aspidistra;George Orwell;751920501;true
+Resimli Adam;Ray Bradbury;813506945;false
+Kan Gölü;R.L. Stine;927483123;true
+Hac;Paulo Coelho;148392768;false
+Dune Çocukları;Frank Herbert;257194848;true
+Yaprak Dökümü;Reşat Nuri Güntekin;346192893;false
+Sahnenin Dışındakiler;Ahmet Hamdi Tanpınar;472109404;true
+Eski Hastalık;Reşat Nuri Güntekin;583920193;false
+Kendi Gökkubbemiz;Yahya Kemal Beyatlı;691827322;true
+Kitab-ül Hiyel;İhsan Oktay Anar;751920502;false
+Sevastopol Hikâyeleri;Lev Tolstoy;813506946;true
+Fırtınalar;Halil Cibran;927483124;false
+Vejetaryen;Han Kang;148392769;true
+Kızıl Otlar;Boris Vian;257194849;false
+Abigail;Magda Szabó;346192894;true
+Güneş de Doğar;Ernest Hemingway;472109405;false
+Kabil;José Saramago;583920194;true
+Big Sur;Jack Kerouac;691827323;false
+Büyük Yalnızlık;Kristin Hannah;751920503;true
+Keskin Nesneler;Gillian Flynn;813506947;false
+Reading Zindanı Baladı;Oscar Wilde;927483125;true
+Sonsuz Güç;Joseph Murphy;148392770;false
+Bir Yazın Tarihi;Halit Ziya Uşaklıgil;257194850;true
+İstanbul’dan Sayfalar;İlber Ortaylı;346192895;false
+Günlük;Oğuz Atay;472109406;true
+Kağnı;Sabahattin Ali;583920195;false
+Daha;Hakan Günday;691827324;true
+Ekmek Elden Süt Memeden;Yusuf Atılgan;751920504;false
+Hanımın Çiftliği;Orhan Kemal;813506948;true
+Sodom ve Gomore;Yakup Kadri Karaosmanoğlu;927483126;false
+Nemide;Halit Ziya Uşaklıgil;148392771;true
+Şimşek;Peyami Safa;257194851;false
+Kırlangıçsız Geçen Yıllar;Adnan Binyazar;346192896;true
